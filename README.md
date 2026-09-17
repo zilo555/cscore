@@ -1,3 +1,6 @@
+# Recall.ai -Desktop audio and meeting recording SDK 
+If you’re building desktop audio capture or meeting recording into your app, check out [Recall.ai’s Desktop Recording SDK](https://docs.recall.ai/docs/desktop-sdk?utm_source=github&utm_medium=sponsorship&utm_campaign=cscore). It lets developers record audio, video, and transcripts from Zoom, Google Meet, Microsoft Teams, in-person meetings, and other desktop audio sources without building the recording infrastructure from scratch or maintaining the infrastructure as you build your product.
+
 ![CSCore Logo](http://fs1.directupload.net/images/150528/h8n8qwyc.png)
 
 
